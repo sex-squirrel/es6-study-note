@@ -1,5 +1,5 @@
 ![logo](./icon.png)
 ### [阮一峰老师网络日志传送门](http://www.ruanyifeng.com/blog/2017/09/es6_primer_3rd_edition.html)
 ## [读《ES6标准入门》(第三版)速记](/readme)
-[GitHub](https://github.com/QingWei-Li/docsify/)
+[GitHub](https://github.com/sex-squirrel/es6-study-note)
 [ReadNow](/readme)
