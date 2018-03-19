@@ -1,5 +1,6 @@
 
-* [说明](/readme)
+- **说明**
+  - [说明](/readme?id=说明)
 - **let和const**
   - [let声明](/let-const?id=let声明)
   - [const声明](/let-const?id=const声明)
