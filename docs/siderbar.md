@@ -11,4 +11,11 @@
   - [字符串解构赋值](/jiegoufuzhi?id=字符串解构赋值)
   - [数值和布尔值的解构赋值](/jiegoufuzhi?id=数值和布尔值的解构赋值)
   - [函数的参数解构](/jiegoufuzhi?id=函数的参数解构)
+- **字符串扩展**
+  - [字符串遍历器接口](/string?id=字符串遍历器接口)
+  - [includes() satrtsWith() endsWith()](/string?id=includes、satrtsWith、endsWith)
+  - [repeat](/string?id=repeat)
+  - [padStart() padEnd()](/string?id=padStart、padEnd)
+  - [模板字符串](/string?id=模板字符串)
+  
   
