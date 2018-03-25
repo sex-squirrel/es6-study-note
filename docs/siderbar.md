@@ -17,5 +17,11 @@
   - [repeat](/string?id=repeat)
   - [padStart() padEnd()](/string?id=padStart、padEnd)
   - [模板字符串](/string?id=模板字符串)
-  
-  
+- **正则的扩展**
+  - [构造函数](/regexp?id=构造函数)
+  - [u修饰符](/regexp?id=u修饰符)
+  - [y修饰符](/regexp?id=y修饰符)
+  - [后行断言](/regexp?id=后行断言)
+  - [具名组匹配](/regexp?id=具名组匹配)
+  - [解构赋值和替换](/regexp?id=解构赋值和替换)
+  - [引用](/regexp?id=引用)
