@@ -117,7 +117,7 @@ const year = matchObj.groups.year; //1993
 const month = matchObj.groups.month; //05
 const day = matchObj.groups.day; //27
 
-// "具名组匹配"在圆括号内部,在模式前面添加"问好 + 尖括号"(?<具名名称>,例如?<year>),然后就可以使用exec方法返回结果的groups属性上引用该组名,同时数字序号依然有效
+// "具名组匹配"在圆括号内部,在模式前面添加"问号 + 尖括号"(?<具名名称>,例如?<year>),然后就可以使用exec方法返回结果的groups属性上引用该组名,同时数字序号依然有效
 ```
 ## 解构赋值和替换
 

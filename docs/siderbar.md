@@ -25,3 +25,12 @@
   - [具名组匹配](/regexp?id=具名组匹配)
   - [解构赋值和替换](/regexp?id=解构赋值和替换)
   - [引用](/regexp?id=引用)
+- **数值扩展**
+  - [二进制和八进制](/number?id=二进制和八进制表示法)
+  - [Number.isFinite和Number.isNaN](/number?id=numberisfinite和numberisnan)
+  - [Number.parseInt、 Number.parseFloat](/number?id=numberparseint、-numberparsefloat)
+  - [Number.isInteger](/number?id=NumberisInteger)
+  - [安全整数 和 Number.isSafeInteger](/number?id=安全整数-和-numberissafeinteger)
+  - [Math对象的扩展](/number?id=math对象的扩展)
+  - [指数运算符](/number?id=指数运算符)
+  
